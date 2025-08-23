@@ -1,0 +1,29 @@
+# Vivado project junk
+*.jou
+*.log
+*.str
+*.rpt
+*.html
+*.xml
+*.xsa
+*.ltx
+*.dcp
+
+# Vivado auto-generated dirs
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.Xil/
+*.gen/
+*.sdk/
+
+# Simulation dumps
+*.vcd
+*.wdb
+
+# Bitstreams (don’t upload unless you want to release them)
+*.bit
+*.bin
+*.mcs
