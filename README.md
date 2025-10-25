@@ -1,4 +1,4 @@
-﻿# Verilog Digital Designs Collection.
+﻿## Verilog Digital Designs Collection.
 
  📌 Project Overview:
 
@@ -14,6 +14,7 @@ Supports 3 traffic states per road (Red, Yellow, Green)
 Configurable timing for each state
 Designed for FPGA deployment (tested on Xilinx Vivado)
 Behavioral Verilog modeling
+
 
 
 
