@@ -7,13 +7,14 @@ The controller manages traffic flow at a 4-way intersection by controlling Red, 
 
 The design follows Moore FSM architecture and can be synthesized and implemented on an FPGA board (Nexys 4 DDR / Basys 3).
 
-**Features:
+**Features**:
 
 Implements FSM-based Traffic Light Controller
 Supports 3 traffic states per road (Red, Yellow, Green)
 Configurable timing for each state
 Designed for FPGA deployment (tested on Xilinx Vivado)
 Behavioral Verilog modeling
+
 
 
 
